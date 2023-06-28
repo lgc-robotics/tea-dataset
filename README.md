@@ -7,6 +7,6 @@ The tea-dataset can be download here.
 ## Examples
 Some visual exmaples are given below.
 
-<img src="assets/00.png" >
+<img src="assets/00.PNG" >
 
-<img src="assets/01.png" >
+<img src="assets/01.PNG" >
