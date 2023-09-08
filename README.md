@@ -20,10 +20,13 @@ If you use tea-dataset in your research, please cite our work by using the follo
 
 ```latex
  @article{
-  title={Efficient detection and picking sequence planning of tea buds in high-density canopy},
-  author={Guichao Lin, Juntao Xiong, Runmao Zhao, Xiaomin Li, Hongnan Hu, Lixue Zhu, Rihong Zhang},
-  journal={Computers and Electronics in Agriculture},
-  year={2023},
-  in review
+  title = {Efficient detection and picking sequence planning of tea buds in a high-density canopy},
+  journal = {Computers and Electronics in Agriculture},
+  volume = {213},
+  pages = {108213},
+  year = {2023},
+  issn = {0168-1699},
+  doi = {https://doi.org/10.1016/j.compag.2023.108213},
+  url = {https://www.sciencedirect.com/science/article/pii/S0168169923006014}
 }
 ```
