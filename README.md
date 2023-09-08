@@ -27,6 +27,7 @@ If you use tea-dataset in your research, please cite our work by using the follo
   year = {2023},
   issn = {0168-1699},
   doi = {https://doi.org/10.1016/j.compag.2023.108213},
-  url = {https://www.sciencedirect.com/science/article/pii/S0168169923006014}
+  url = {https://www.sciencedirect.com/science/article/pii/S0168169923006014},
+  author = {Guichao Lin and Juntao Xiong and Runmao Zhao and Xiaomin Li and Hongnan Hu and Lixue Zhu and Rihong Zhang}
 }
 ```
